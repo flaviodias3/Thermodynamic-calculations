@@ -1,4 +1,4 @@
-#SEPR CALCULATION
+# SEPR CALCULATION
 
 **1. Introduction**
    
