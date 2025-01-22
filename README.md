@@ -1,8 +1,10 @@
-1. Introduction
+#SEPR CALCULATION
+
+**1. Introduction**
    
 The SEPR Calculation Application is designed to calculate the Seasonal Energy Performance Ratio (SEPR) for process chillers based on the EN14825:2022 standard. The application uses various libraries such as Pandas and Numpy for data manipulation and analysis, providing a comprehensive tool for evaluating the energy performance of chillers under different operating conditions.
 
-3. How It Works
+**2. How It Works**
 
 The application follows a structured approach to calculate SEPR:
 
@@ -17,19 +19,19 @@ The application follows a structured approach to calculate SEPR:
 * Efficiency Ratio Calculation: Calculates efficiency ratio (EER) based on declared capacity and corrected power input.
 * SEPR Calculation: Calculates SEPR based on bin hours, cooling demand, and efficiency ratios.
   
-3. Popular Libraries
+**3. Popular Libraries**
    
 * Pandas: Used for data manipulation and analysis, providing data structures like DataFrames.
 * Numpy: Utilized for numerical operations and handling arrays.
   
-5. Applications
+**5. Applications**
    
 * Energy Performance Evaluation: Evaluating the energy performance of process chillers under different operating conditions.
 * SEPR Calculation: Calculating the Seasonal Energy Performance Ratio (SEPR) based on the EN14825:2022 standard.
 * Efficiency Analysis: Analyzing the efficiency of pumps and chillers, including power input correction and degradation coefficient calculations.
 * Data Analysis: Handling and processing data related to cooling capacity, pump flow rate, external static pressure, and power input.
   
-7. Limitations and Future
+**7. Limitations and Future**
  
 A - Limitations:
 
@@ -45,6 +47,6 @@ B - Future Scope:
 * User Interface Improvements: Enhancing the user interface for better usability and accessibility.
 * Cloud Integration: Integrating with cloud services for better scalability and data storage.
   
-8. Conclusion
+**8. Conclusion**
 The SEPR Calculation Application is a comprehensive tool for calculating the Seasonal Energy Performance Ratio (SEPR) for process chillers based on the EN14825:2022 standard. By leveraging popular libraries such as Pandas and Numpy, the application provides a robust and efficient solution for evaluating the energy performance of chillers. While there are some limitations, the future scope includes enhancements in visualization, real-time data processing, machine learning integration, and cloud services, making it a promising tool for energy performance evaluation and optimization.
 
